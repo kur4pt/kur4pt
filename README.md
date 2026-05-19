@@ -8,6 +8,7 @@
 </p>
 
 ---
+## About me
 
 I'm a software engineering student focused on building modern, automation-focused applications. 
 Interested in systems that automate our lifes and exploring AI-driven solutions. 
@@ -32,8 +33,7 @@ Exploring LLMs/AI • SwiftUI • Automation Systems
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kur4pt&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kur4pt&layout=compact&hide_border=true&theme=transparent" />
+  <img heigh
 </p>
 
 ---
