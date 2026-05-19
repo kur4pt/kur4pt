@@ -1,7 +1,9 @@
 <h1 align = "center" > Hello! I'm Byron Garcia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h1>
-
+<h3 align="center">
+  iOS Developer • Software Engineering Student • Building cool things
+</p>
+  
 [
-![Instagram](https://img.shields.io/badge/@kur4pt-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/kur4pt/) 
 
 <h3 align="center">
   iOS Developer • Software Engineering Student • Building cool things
