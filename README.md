@@ -3,9 +3,8 @@
   iOS Developer • Software Engineering Student • Building cool things
 </p>
 
----
 
-## Tech Stack
+<h3 align="center"> Tech Stack </h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java" />
