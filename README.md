@@ -1,16 +1,15 @@
 <h1 align = "center" > Hello! I'm Byron Garcia <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h1>
-
-<h3 align="center">
+<p align="center">
   iOS Developer • Software Engineering Student • Building cool things
-</h3>
-  
+</p>
+
 <h1 align = "center"> Tech Stack </h1>
 
 <p align = "center">
   <img src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java" />
 </p>
 
--
+--
 
 I'm a software engineering student focused on building modern, automation-focused applications. 
 Interested in systems that automate our lifes and exploring AI-driven solutions. 
