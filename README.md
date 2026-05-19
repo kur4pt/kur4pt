@@ -7,13 +7,15 @@
   iOS Developer • Software Engineering Student • Building cool things
 </p>
   
-## Tech Stack
+<h1 align = "center"> Tech Stack </h1>
+
 <p align = "center">
   <img src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java" />
 </p>
 
 
-I'm a software engineering student focused on building modern, automation-focused applications. Interested in systems that automate our lifes and exploring AI-driven solutions. 
+I'm a software engineering student focused on building modern, automation-focused applications. 
+Interested in systems that automate our lifes and exploring AI-driven solutions. 
 Passionate about Automation, and distributed systems, I love tackling complex engineering challenges and sharing knowledge with the community.
 
 Based in Los Angeles<br>
@@ -34,8 +36,8 @@ Exploring LLM's/AI, Clean Ui/UX <br>
 ## Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kur4pt&show_icons=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kur4pt&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 ---
