@@ -5,7 +5,7 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-    <img hieght="50%" src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java,cpp,tailwindcss&perline=6" />
+    <img hieght="90%" src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java,cpp,tailwindcss" />
 </p>
 
 ---
@@ -31,15 +31,8 @@ Exploring LLMs/AI • SwiftUI • Automation Systems
 
 ---
 
-## Projects
-
-
----
-
-<p align="center>
-    
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kur4pt&theme=darcula&hide_border=true&background=FFFFFF00" />
-  
+<p align="center">
+    <img hieght="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00" />
 </p>
 
 <p align="center">
