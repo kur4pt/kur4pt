@@ -4,15 +4,16 @@
 <h3 align="center"> Tech Stack </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java" />
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,python,react,javascript,git,firebase,nodejs,java,cpp,tailwindcss&perline=6" />
 </p>
 
 ---
 ## About me
 
 I'm a software engineering student focused on building modern, automation-focused applications. 
-Interested in systems that automate our lifes and exploring AI-driven solutions. 
-Passionate about Automation, and distributed systems, and tackling complex engineering challenges and sharing knowledge with the community.
+Interested in exploring AI-driven solutions and systems that better our lifes. 
+Passionate about distributed systems, tackling complex engineering challenges and sharing knowledge.
 
 
 📍 Los Angeles, CA  
@@ -30,13 +31,14 @@ Exploring LLMs/AI • SwiftUI • Automation Systems
 
 ---
 
-## Stats
+## Projects
 
-<p align="center">
-  <img heigh
-</p>
 
 ---
+
+<p align="center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kur4pt&theme=darcula&hide_border=true&background=FFFFFF00" />
+</p>
 
 <p align="center">
   Always building.
