@@ -32,7 +32,7 @@ Exploring LLMs/AI • SwiftUI • Automation Systems
 ---
 
 <p align="center">
-    <img hieght="50%" src="https://github-readme-streak-stats.herokuapp.com?user=aveek-saha&theme=darcula&hide_border=true&background=FFFFFF00" />
+    <img hieght="50%" src="https://github-readme-streak-stats.herokuapp.com?user=kur4pt&theme=darcula&hide_border=true&background=FFFFFF00" />
 </p>
 
 <p align="center">
