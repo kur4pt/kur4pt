@@ -11,13 +11,13 @@
 ---
 ## About me
 
-I'm a software engineering student focused on building modern, automation-focused applications. 
-Interested in exploring AI-driven solutions and systems that better our lifes. 
-Passionate about distributed systems, tackling complex engineering challenges and sharing knowledge.
+- I'm a software engineering student focused on building modern, automation-focused applications. 
+- Interested in exploring AI-driven solutions and systems that better our lifes. 
+- Passionate about distributed systems, tackling complex engineering challenges and sharing knowledge.
 
 
 📍 Los Angeles, CA  
-Exploring LLMs/AI • SwiftUI • Automation Systems
+- Exploring LLMs/AI • SwiftUI • Automation Systems
 
 ---
 
