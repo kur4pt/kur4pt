@@ -35,7 +35,7 @@
     <img hieght="50%" src="https://github-readme-streak-stats.herokuapp.com?user=kur4pt&theme=darcula&hide_border=true&background=FFFFFF00" />
 </p>
 
-<picture>
+<picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kur4pt/kur4pt/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kur4pt/kur4pt/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kur4pt/kur4pt/output/github-contribution-grid-snake.svg">
